@@ -14,3 +14,8 @@ This project involves web scraping Fortune 500 company data using Python. The go
 - Revenue distribution among industries can be analyzed.  
 - Possible trends in Fortune 500 rankings can be observed over time.  
 
+## 🛠️ Tech Stack  
+- **Python** – Primary programming language.  
+- **BeautifulSoup** – Web scraping.  
+- **Requests** – Handling HTTP requests.  
+- **Pandas** – Data cleaning and structuring.  
